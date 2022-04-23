@@ -1,0 +1,24 @@
+.order-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.order-main {
+    display: flex;
+}
+
+.order-page__left {
+    width: 50%;
+}
+
+.order-page__right {
+    width: 50%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.order-page__total-price {
+    font-size: 25px;
+    font-weight: bold;
+}
